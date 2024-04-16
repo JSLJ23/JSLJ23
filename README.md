@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JSLJ23
-- 👀 I’m interested in Computational Biology, Machine Learning and Game Development.
-- 🌱 I’m currently learning about state of the art Deep Learning techniques in biomedical drug discovery and novel therapeutics modalities.
-- 💞️ I’m looking to collaborate on projects that explore novel therapeutics driven by computational approaches.
+- Hi, I’m @JSLJ23
+- I’m interested in Computational Biology, Machine Learning and Game Development.
+- I’m currently learning about state of the art Deep Learning techniques in biomedical drug discovery and novel therapeutics modalities.
+- I’m looking to collaborate on projects that explore novel therapeutics driven by computational approaches.
 - 📫 How to reach me - joshuaslj231094@gmail.com / www.linkedin.com/in/joshuaslj
 .
 
